@@ -23,4 +23,4 @@ This repository contains my submission for the front-end developer coding challe
 
 ### 🚀 Live Demo
 
-A live version of the site is hosted on GitHub Pages here: [You will add this link after Step 3]
+A live version of the site is hosted on GitHub Pages here: https://tahir1096.github.io/responsive-homepage-project/
